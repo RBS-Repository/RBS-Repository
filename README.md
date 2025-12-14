@@ -8,9 +8,9 @@
 
 I am a passionate Fullstack Developer based in the **Philippines**. I specialize in building scalable web applications with modern technologies, focusing on seamless user experiences and efficient backend architecture.
 
-[<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jasper-mu.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rbs-jeko09/)
+[<img src="https://img.shields.io/badge/Email-hello.jasperdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hello.jasperdev@gmail.com)
 
 </div>
 
