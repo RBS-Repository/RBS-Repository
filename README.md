@@ -73,7 +73,7 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBS-Repository&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
