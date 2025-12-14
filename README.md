@@ -6,7 +6,9 @@
 
 <br/>
 
-I am a passionate Fullstack Developer based in the **Philippines**. I specialize in building scalable web applications with modern technologies, focusing on seamless user experiences and efficient backend architecture.
+I am a passionate Fullstack Developer based in the **Philippines**. I specialize in building scalable web applications with modern technologies, currently focusing on high-performance solutions like **[Budaque Creations](https://budaquecreations.vercel.app/)**.
+
+<br/>
 
 [<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jasper-mu.vercel.app/)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rbs-jeko09/)
@@ -18,10 +20,19 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **High-performance Next.js Applications**.
+- 🔭 I’m currently working on **[Budaque Creations](https://budaquecreations.vercel.app/)**.
 - 🌱 I’m currently exploring **Advanced Backend Patterns & System Design**.
 - 💼 I specialize in **MERN Stack, Next.js, and Tailwind CSS**.
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful code.
+- 📱 Contact me at: **0976 292 6882**
+
+---
+
+### 🚀 Featured Projects
+
+| **Budaque Creations** | **Personal Portfolio** |
+|:---:|:---:|
+| A modern web solution built for scale and performance. | My personal showcase of projects and skills. |
+| [**Visit Site**](https://budaquecreations.vercel.app/) 🔗 | [**Visit Site**](https://jasper-mu.vercel.app/) 🔗 |
 
 ---
 
@@ -36,7 +47,6 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 **Backend & Database**
 <br/>
@@ -44,14 +54,12 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
 **Tools & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -65,12 +73,12 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <small>Thanks for visiting! Let's build something amazing together.</small>
+  <small>Let's build something amazing together.</small>
 </div>
