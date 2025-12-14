@@ -61,7 +61,7 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jasper's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RBS-Repository&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jasper's GitHub Stats" />
 
 <br/>
 
