@@ -23,7 +23,7 @@ I am a passionate Fullstack Developer based in the **Philippines**. I specialize
 - 🔭 I’m currently working on **[Budaque Creations](https://budaquecreations.vercel.app/)**.
 - 🌱 I’m currently exploring **Advanced Backend Patterns & System Design**.
 - 💼 I specialize in **MERN Stack, Next.js, and Tailwind CSS**.
-- 📱 Contact me at: **0976 292 6882**
+- 📱 Contact me at: **0976 641 1918**
 
 ---
 
